@@ -35,8 +35,8 @@ const float RL10 = 50;
 
 
 //DATI WIFI
-char ssid[] = "SPYRO-CAVERNA";        // NOME SSID
-char pass[] = "spyr0gyra";    // PASSWORD WPA WI-FI
+char ssid[] = "XXXXXXXXX";        // NOME SSID
+char pass[] = "XXXXXXXXX";    // PASSWORD WPA WI-FI
 int status = WL_IDLE_STATUS;     // STATO RADIO WI-FI
 
 //TEMP INIT
